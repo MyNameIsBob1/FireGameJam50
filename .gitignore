@@ -69,5 +69,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset
-Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap
